@@ -1,0 +1,79 @@
+body{
+
+    background-color: black;
+
+    background-repeat: no-repeat;
+    background-image: url(../assets/Hokage.png);
+    height: 100%;
+    width: 100%;
+    background-size: cover;
+   
+
+
+}
+
+.Background{
+    background-repeat: no-repeat;
+    background-image: url(../assets/Boruto.jpeg);
+    height: 100%;
+    width: 100%;
+    background-size: cover;
+   
+}
+
+.otherBackground{
+
+    background-repeat: no-repeat;
+    background-image: url(../assets/RasenShuriken.jpeg);
+    height: 100%;
+    width: 100%;
+    background-size: cover;
+   
+}
+
+.black{
+
+    background-color: black;
+}
+
+a:link{
+    text-decoration: none;
+    
+
+}
+
+a:hover{
+
+    color:lightsalmon
+    
+}
+
+.mL{
+
+    display: flex;
+    margin-left: 190px;
+
+}
+.moveImg{ 
+
+    display: block;
+    height: 150px;
+    width: 300px;
+}
+
+#txt{
+
+color: whitesmoke;
+font-size: 17px;
+
+
+}
+
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 150px;
+    width: 300px;
+}
+
